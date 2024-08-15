@@ -31,5 +31,6 @@ Before you start writing C++ programs, you need to set up a development environm
 - Compile a simple test program to verify the installation.
 
 ### Compiling and Running
--    `g++ Helloworld.cpp -o Helloworld`
--    `./Helloworld`
+    ```bash
+    g++ Helloworld.cpp -o Helloworld
+    ./Helloworld
