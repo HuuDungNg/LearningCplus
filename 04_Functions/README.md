@@ -1,6 +1,3 @@
-Here's the complete `README.md` file for the `04_Functions` folder, incorporating all five topics: Function Declaration and Definition, Function Parameters and Return Values, Function Overloading, Inline Functions, and Recursion.
-
-```markdown
 # Functions in C++
 
 Functions are a core concept in C++ programming. They allow you to encapsulate code into reusable blocks, making your programs more modular and maintainable. This section covers function declarations, definitions, parameters, return values, overloading, inline functions, and recursion.
