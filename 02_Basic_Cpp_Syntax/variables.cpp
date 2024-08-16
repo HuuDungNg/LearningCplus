@@ -36,7 +36,7 @@ int main() {
 
     std::cout << std::setw(10) << std::left << "Age";
     std::cout << std::setw(40) << std::left << age << std::endl;
-
+    std::cout << std::setfill('-') << std::setw(55) << "-" << std::setfill(' ') << std::endl;
     std::cout << std::setw(10) << std::left << "Height";
     std::cout << std::setw(40) << std::left << height << std::endl;
 
